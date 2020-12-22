@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="maventest">
+    <output-path>$PROJECT_DIR$/out/artifacts/maventest</output-path>
+    <root id="root">
+      <element id="archive" name="maventest.jar">
+        <element id="module-output" name="maventest" />
+      </element>
+    </root>
+  </artifact>
+</component>
